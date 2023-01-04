@@ -1,2 +1,0 @@
-# Odin
-odin project tutorial
