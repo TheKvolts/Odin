@@ -11,7 +11,10 @@ ex. cd Desktop/TheOdinProject
 Clone your project using GitHub repository SSH link.
 
 ex. git clone git@github.com:TheKvolts/TheOdinProject.git
+Type in terminal 
 
+cd ~/Desktop
+git clone git@github.com:TheKvolts/TheOdinProject.git
 
 ^Take that link from github repository. 
 
@@ -19,3 +22,14 @@ ex. git clone git@github.com:TheKvolts/TheOdinProject.git
 mkdir: makes file
 cd: directs to file
 touch: edits file. 
+
+IMPORTANT:
+0) git remote -v : to access connection to GitHub to the repository. 
+1) 
+git status : displays info about staging area. 
+Once a file is modified in vscode, git will know. Send modified files to the staging area. 
+
+2) 
+Use "git add ." to add all modified files to the staging area.
+
+3) use ' git commit -m "updated the files" ' 
