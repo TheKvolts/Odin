@@ -32,4 +32,6 @@ Once a file is modified in vscode, git will know. Send modified files to the sta
 2) 
 Use "git add ." to add all modified files to the staging area.
 
-3) use ' git commit -m "updated the files" ' 
+3) use ' git commit -m "updated the files" '  to commit files. 
+
+4) use ' git push ' to send all files to GitHub.
