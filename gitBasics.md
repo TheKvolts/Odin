@@ -34,7 +34,7 @@ Use "git add ." to add all modified files to the staging area.
 
 3) use ' git commit -m "updated the files" '  to commit files. Needs a comment. (use git status) to view later.)
 
-4) use ' git push ' to send all files to GitHub.
+4) use ' git push ' to send all files to GitHub. Yes.
 
 Summary
 git status
